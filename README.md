@@ -30,7 +30,7 @@ If the user successfully submit the form, it will show an alert.
 
 ### Google Sheets Screenshot
 
-The datas are inside of the well structed sheets columns and rows.
+The datas are inside of the well structed sheets columns and rows. Make sure the name of the sheets should be match with the one 'form variable'.
 <img src="sheets.png" alt="Google Sheets" width="500">
 
 ## Google App Script
